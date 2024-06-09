@@ -1,0 +1,14 @@
+com\carolcaracol\api_curriculo_sb\model\Formacao.class
+com\carolcaracol\api_curriculo_sb\controller\TrabalhoController.class
+com\carolcaracol\api_curriculo_sb\service\FormacaoService.class
+com\carolcaracol\api_curriculo_sb\model\Trabalho.class
+com\carolcaracol\api_curriculo_sb\SeedDb.class
+com\carolcaracol\api_curriculo_sb\repository\TrabalhoRepositoy.class
+com\carolcaracol\api_curriculo_sb\controller\FormacaoController.class
+com\carolcaracol\api_curriculo_sb\controller\UsuarioController.class
+com\carolcaracol\api_curriculo_sb\service\TrabalhoService.class
+com\carolcaracol\api_curriculo_sb\service\UsuarioService.class
+com\carolcaracol\api_curriculo_sb\ApiCurriculoSbApplication.class
+com\carolcaracol\api_curriculo_sb\repository\UsuarioRepository.class
+com\carolcaracol\api_curriculo_sb\repository\FormacaoRepository.class
+com\carolcaracol\api_curriculo_sb\model\Usuario.class
